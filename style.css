@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto:wght@300&display=swap');
+html, body {
+  	height: 100%;
+  	width: 100%;
+}
+body{
+	background-color: black;
+	color:#15d515;
+	font-family: 'Lato', sans-serif;
+  font-size: 25px;
+	transform: translateX(200px);
+	background-image: url(https://st2.depositphotos.com/1000393/6507/i/600/depositphotos_65076917-stock-photo-hacker-and-terrorism-fight.jpg);
+  background-repeat: no-repeat;
+	background-size: 99% 99%;
+}
